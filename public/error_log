@@ -1,0 +1,54 @@
+[03-Jul-2019 07:21:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\UserController::show() in /home/sanixu9b/public_html/app/app/Http/Controllers/Admin/UserController.php on line 78
+[26-Jul-2019 12:18:24 Etc/GMT] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Aug-2019 09:28:06 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Aug-2019 12:59:31 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sanixu9b/public_html/app/app/Transformers/Json.php on line 3
+[07-Aug-2019 13:01:50 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sanixu9b/public_html/app/app/Transformers/Json.php on line 3
+[03-Sep-2019 07:06:07 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[05-Sep-2019 07:58:46 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[05-Sep-2019 12:04:29 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[05-Sep-2019 12:04:39 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[05-Sep-2019 12:37:14 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Sep-2019 06:08:09 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:08 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:10 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:12 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:13 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:15 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:16 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[14-Sep-2019 18:48:17 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[17-Sep-2019 20:30:38 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[17-Sep-2019 20:30:47 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Nov-2019 04:29:25 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Nov-2019 04:29:32 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Nov-2019 04:32:35 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[07-Nov-2019 04:32:59 Etc/GMT] PHP Warning:  File upload error - unable to create a temporary file in Unknown on line 0
+[17-Dec-2019 16:20:10 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Mail as Mail because the name is already in use in /home/sanixu9b/public_html/app/app/Http/Controllers/Api/V1/Auth/RegisterController.php on line 22
+[25-Jan-2020 14:41:39 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: brand
+[25-Jan-2020 14:41:39 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: last4
+[25-Jan-2020 14:41:39 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: name
+[25-Jan-2020 14:41:39 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: country
+[25-Jan-2020 14:43:05 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: brand
+[25-Jan-2020 14:43:05 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: last4
+[25-Jan-2020 14:43:05 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: name
+[25-Jan-2020 14:43:05 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: country
+[25-Jan-2020 14:47:21 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: brand
+[25-Jan-2020 14:47:21 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: last4
+[25-Jan-2020 14:47:21 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: name
+[25-Jan-2020 14:47:21 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: country
+[25-Jan-2020 14:49:26 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: brand
+[25-Jan-2020 14:49:26 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: last4
+[25-Jan-2020 14:49:26 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: name
+[25-Jan-2020 14:49:26 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Source instance: country
+[25-Jan-2020 15:59:44 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:45 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:46 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:47 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:48 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:49 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:50 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:51 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:54 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:55 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[25-Jan-2020 15:59:56 Etc/GMT] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[31-Jan-2020 11:05:49 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/sanixu9b/public_html/app/app/Http/Controllers/Admin/TransactionController.php on line 19
+[31-Jan-2020 11:06:10 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/sanixu9b/public_html/app/app/Http/Controllers/Admin/TransactionController.php on line 19
